@@ -191,6 +191,10 @@ This will:
 This project is intended **solely for educational and internal evaluation** purposes.
 
 ---
+## ⚖️ Result
+
+# For Deep Learning Model
+F1 score is 0.747176 and corressponding AUC score is 0.928328
 
 # 🧾 requirements.txt
 
@@ -211,3 +215,4 @@ gymnasium[classic-control]==0.29.1
 # Jupyter kernel support (optional)
 ipykernel>=6.29.0
 ```
+
